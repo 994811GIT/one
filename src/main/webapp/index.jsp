@@ -5,7 +5,7 @@
 	<h1 style="color: black; font-size: 40px;" align="center">THIS IS OUR JENKINS CI/CD</h1>
 	
 	<p> Ponnamanda Srinivas @Sayukth Technologies Private Limited Board Memeber</p>
-	<img src="https://media.wired.co.uk/photos/606d9a3ba876dd2203a639aa/16:9/w_1920,c_limit/wired-uk-google-watching.jpg"/>
+	<img src="https://media.wired.co.uk/photos/606d9a3ba876dd2203a639aa/16:9/w_1920,c_limit/wired-uk-google-watching.jpg" style="width:100px;height:100px;"/>
 	
 	
 	
