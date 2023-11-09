@@ -6,6 +6,7 @@
 	
 	
 	<img src="https://media.wired.co.uk/photos/606d9a3ba876dd2203a639aa/16:9/w_1920,c_limit/wired-uk-google-watching.jpg" style="width:100px;height:100px;"/>
+        <p>this is our new application</p>
 	
 	
 	
